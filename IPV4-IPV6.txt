@@ -336,7 +336,7 @@ CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226419/1.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226419/index.m3u8
 
-CCTV2,http://111.20.35.103:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/1.m3u8
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/1.m3u8
@@ -401,7 +401,7 @@ CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
 
 
 
-CCTV3,http://111.20.35.103:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+
 CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/1.m3u8
 CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226397/1.m3u8
@@ -685,7 +685,6 @@ CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
 
 
 
-CCTV4,http://111.20.35.103:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/1.m3u8
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226191/1.m3u8
