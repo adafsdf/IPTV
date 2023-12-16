@@ -63,7 +63,7 @@ http://fengqiang.press:8188/udp/239.49.8.32:8000
 http://fengqiang.press:8188/udp/239.49.0.168:8000
 #EXTINF:-1,tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://epg.112114.xyz/logo/泰州新闻综合.png" group-title="地方",泰州新闻综合
 http://fengqiang.press:8188/udp/239.49.0.215:8000
-#EXTINF:-1,tvg-id="泰州二套新" tvg-name="泰州二套新" tvg-logo="https://epg.112114.xyz/logo/泰州二套新.png" group-title="地方",泰州二套新
+#EXTINF:-1,tvg-id="泰州二套" tvg-name="泰州二套" tvg-logo="https://epg.112114.xyz/logo/泰州二套.png" group-title="地方",泰州二套
 http://fengqiang.press:8188/udp/239.49.0.217:8000
 #EXTINF:-1,tvg-id="泰州三套" tvg-name="泰州三套" tvg-logo="https://epg.112114.xyz/logo/泰州三套.png" group-title="地方",泰州三套
 http://fengqiang.press:8188/udp/239.49.0.222:8000
@@ -73,7 +73,7 @@ http://fengqiang.press:8188/udp/239.49.8.107:8000
 http://fengqiang.press:8188/udp/239.49.8.118:8000
 #EXTINF:-1,tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://epg.112114.xyz/logo/江苏综艺.png" group-title="江苏",江苏综艺HD
 http://fengqiang.press:8188/udp/239.49.8.108:8000
-#EXTINF:-1,tvg-id="江苏体育休闲HD" tvg-name="江苏体育休闲HD" tvg-logo="https://epg.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲HD
+#EXTINF:-1,tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://epg.112114.xyz/logo/江苏体育休闲.png" group-title="江苏",江苏体育休闲HD
 http://fengqiang.press:8188/udp/239.49.8.117:8000
 #EXTINF:-1,tvg-id="江苏教育电视台" tvg-name="江苏教育电视台" tvg-logo="https://epg.112114.xyz/logo/江苏教育电视台.png" group-title="江苏",江苏教育HD
 http://fengqiang.press:8188/udp/239.49.8.122:8000
